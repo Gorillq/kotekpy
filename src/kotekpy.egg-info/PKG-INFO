@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: kotekpy
+Version: 0.99
+Summary: Qrcodes with GUI
+Author-email: Kamil Kownacki <kamil.kownacki3@gmail.com>
+Project-URL: Homepage, https://github.com/Gorillq/kotekpy
+Project-URL: Bug Tracker, https://github.com/Gorillq/kotekpy/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU v3
+Classifier: Operating System :: Windows
+Requires-Python: >=3.7
+License-File: LICENSE
