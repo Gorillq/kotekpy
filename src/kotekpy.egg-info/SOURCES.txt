@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+src/__init__.py
+src/main.py
+src/kotekpy.egg-info/PKG-INFO
+src/kotekpy.egg-info/SOURCES.txt
+src/kotekpy.egg-info/dependency_links.txt
+src/kotekpy.egg-info/top_level.txt
